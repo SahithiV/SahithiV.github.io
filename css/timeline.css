@@ -119,7 +119,7 @@
   right: auto;
 }
 .timeline-badge > a {
-  color: #C5C7C5 !important;
+  color: #EEEEEE !important;
 }
 .timeline-badge a:hover {
   color: #000 !important;
@@ -127,6 +127,19 @@
 .timeline-title {
   margin-top: 0;
   color: inherit;
+}
+.timeline-body .job-title > h3 {
+  text-align: center; 
+  color: black;
+}
+.timeline-body .job-title > p {
+  text-align: right; 
+  color: black;
+}
+.timeline-body .job-title {
+  text-align: left; 
+  padding: 20px 30px 20px 0px;
+  background-color: #ffbd46;
 }
 .timeline-body .timeline-details {
   text-align: left; 
