@@ -1,6 +1,6 @@
 .timeline {
   list-style: none;
-  padding: 20px 30px 20px;
+  padding: 20px 20px 20px;
   position: relative;
 }
 .timeline:before {
@@ -138,9 +138,9 @@
 }
 .timeline-body .job-title {
   text-align: left; 
-  padding: 20px 20px 20px 10px;
-  background-color: #EEEEEE;
-  /* background-color: #ffbd46;*/
+  padding: 20px 10px 20px 10px;
+  /*background-color: #EEEEEE;*/
+  background-color: #ffbd46;
 }
 .timeline-body .timeline-details {
   text-align: left; 
