@@ -132,6 +132,10 @@
   text-align: center; 
   color: black;
 }
+.timeline-body .job-title > h5 {
+  text-align: center; 
+  color: black;
+}
 .timeline-body .job-title > p {
   text-align: right; 
   color: black;
